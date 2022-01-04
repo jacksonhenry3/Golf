@@ -1,6 +1,7 @@
 #Look-and-say sequence
 
 par 116 chars - Jackson
+    114 chars - Jackson
 
 https://en.wikipedia.org/wiki/Look-and-say_sequence
 
