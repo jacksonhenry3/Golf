@@ -1,7 +1,7 @@
 #Permutations
 
 Scores:
-par 205 chars - Nico
+par 202 chars - Nico
 
 Print all the permutations of the lists '1', '12', '123', '1234', and '12345', with each permutation on its own line. Output should look as follows:
 
