@@ -1,2 +1,3 @@
 import itertools
-[print(*p,sep='')for i in range(1,6)for p in itertools.permutations('123456'[:i])]
+r=range(1,6)
+[print(*p,sep='')for i in r for p in itertools.permutations(r[:i])]
