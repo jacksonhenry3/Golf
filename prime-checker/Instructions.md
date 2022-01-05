@@ -2,7 +2,7 @@
 
 Scores:
 
-74 chars - Jackson
+73 chars - Jackson
 80 chars - Nico
 
 Write a program that that takes in a positive integer n and prints `True` if it is prime and `False` if it is composite. Your solution is valid if `bool(output)` evaluates to the correct boolean value (True or False) for your program's output.

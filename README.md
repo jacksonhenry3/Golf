@@ -5,6 +5,7 @@
 2. you must make up your own challenge, no copying existing golf challenges.
 3. Solve your own challenge to create "par"
 4. commit, and everyone else will submit their solutions.
+5. If everyone bests par on a challenge you made, you must come up with the next challenge.
 
 ## Rules
 1. your score is the number of characters (including whitespace) in your solution.
