@@ -1,8 +1,8 @@
 #Look-and-say sequence
 
 Scores:
-113 chars - Nico
-116 chars - Jackson
+par 113 chars - Nico
+    114 chars - Jackson
 
 https://en.wikipedia.org/wiki/Look-and-say_sequence
 
