@@ -60,6 +60,8 @@ def find_first_unmatched_paren(lisp: str) -> int:
  (()())))  ; 5
 ;      ^^ no matching brackets
 ```
+###scores 
+Jackson: 164 charachters
 
 ## variant 3: parentheses and brackets and curly braces, oh my!
 
