@@ -26,7 +26,7 @@ It should produce
 
 ### scores
 Steven: 85B
-Jackson: 49 charachters (not sure how to measure bytes) 
+[INVALID] Jackson: 49 charachters (not sure how to measure bytes)
 
 ## variant 2:
 
